@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102A_Lib\APT32F102A_102B_StdPeriph_Lib_V1_15_20221105\Workspace\APT32F102A_102B_StdPeriph_Lib\APT32F102A_102B_StdPeriph_Lib.cdkws">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102A_Lib\APT32F102A_102B_StdPeriph_Lib_V1_15_20221105\Workspace\APT32F102A_102B_StdPeriph_Lib\APT32F102A_102B_StdPeriph_Lib.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102A_Lib\APT32F102A_102B_StdPeriph_Lib_V1_15_20221105\Source\main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="30" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102A_Lib\APT32F102A_102B_StdPeriph_Lib_V1_15_20221105\Source\FWlib\apt32f102a_syscon.c" Name="FileName"/>
+      <int Value="127" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
