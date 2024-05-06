@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\apt32f102.cdkws">
+  <int Value="12" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\apt32f102.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\gui.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\task.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\task.h" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\gui.h" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\OLED\oled.h" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="22" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\main.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="64" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\OLED\oled.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="258" Name="FirstVisibleLine"/>
+      <int Value="289" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\apt32f102a_initial.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="511" Name="FirstVisibleLine"/>
+      <int Value="521" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\logic.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="28" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\led.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\include\apt32f102a_i2c.h" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="170" Name="FirstVisibleLine"/>
+      <int Value="196" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\User\key.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\14836\Desktop\USB_HUB_OLED\code\Source\FWlib\apt32f102a_tkey_parameter.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="51" Name="FirstVisibleLine"/>
+      <int Value="65" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
